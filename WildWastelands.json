@@ -1,14 +1,14 @@
 {
-  Developers: {
-    value: [5438409, 41408761, 410545380]
+  "Developers": {
+    "value": [5438409, 41408761, 410545380]
   },
-  SecuritronVersion: {
-    value: 1
+  "SecuritronVersion": {
+    "value": 1
   },
-  UrlBaseDomain: {
-    value: "https://www.wildwastelands.com/"
+  "UrlBaseDomain": {
+    "value": "https://www.wildwastelands.com/"
   },
-  GameDebug: {
-    value: true
+  "GameDebug": {
+    "value": true
   }
 }
