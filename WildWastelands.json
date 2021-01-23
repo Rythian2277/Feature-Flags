@@ -1,1 +1,8 @@
-[]
+{
+  UrlBaseDomain: {
+    value: "https://www.wildwastelands.com/"
+  },
+  GameDebug: {
+    value: true
+  }
+}
